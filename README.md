@@ -1,4 +1,4 @@
-# mpi-openmp-cuda-project
+# mpi openmp cuda project
 # Xi Liu, 2022
 # mpi: 
 find numbers divisible by a given number x in the range 
