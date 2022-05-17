@@ -3,7 +3,7 @@
 # mpi: 
 find numbers divisible by a given number x in the range 
 between A and B (inclusive) and test scalability and performance. For example: find numbers 
-divisible by 3 in the range between 2 and 10000
+divisible by 3 in the range between 2 and 10000.
 # openmp: 
 reads a series of p floating point numbers from a file then shows a 
 histogram of n bins of these numbers. The output of your program is not a picture of a 
@@ -19,9 +19,9 @@ The output of your program on the screen must be:
 bin[0] = 2;
 bin[1] = 1;
 bin[2] = 2;
-bin[3] = 1;
+bin[3] = 1.
 # cuda: 
 user enters a number n (n is a positive integer). Three arrays, a, b, and c of n 
 elements each are dynamically allocated and initialized with random floating points 
 numbers. Then the operation c[i] += a[i] * b[i] will be executed both sequentially on the host and 
-on the device (the GPU). The time taken by each are printed on the screen
+on the device (the GPU). The time taken by each are printed on the screen.
